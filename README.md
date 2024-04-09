@@ -1,2 +1,2 @@
 # proyecto_bash
-Un reposirorio para aprender a usar git
+Un repositorio para aprender a usar git
